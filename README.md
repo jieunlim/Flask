@@ -7,7 +7,7 @@ How Web pages are formatted and displayed.
 
 2. HTML tags
 ###<html></html> Declares the Web page to be written in HTML
-<head></head> Delimits the page's head
+#<head></head> Delimits the page's head
 <title></title> Defines the title (not displayed on the page)
 <body></body> Delimits the page's body
 <h n></hn> Delimits a level n heading
@@ -34,4 +34,4 @@ The other main standard that controls how the World Wide Web works is
 <img src="https://imgur.com/a/mmYyo">
 
 ## Flask Video Walkthrough
-<img src='https://imgur.com/a/mSCoM' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='https://i.imgur.com/E2hYQ95.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
