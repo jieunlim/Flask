@@ -2,7 +2,7 @@
 # httphtml
 
 1. HTML
-Hypertext Markup Language
+Hypertext Markup Language</br>
 How Web pages are formatted and displayed.
 
 2. HTML tags
