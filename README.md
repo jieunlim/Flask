@@ -33,4 +33,5 @@ When you enter a URL in your browser, this actually sends an HTTP command to
 The other main standard that controls how the World Wide Web works is 
 <img src="https://imgur.com/a/mmYyo">
 
-
+## Flask Video Walkthrough
+<img src='https://imgur.com/a/mSCoM' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
