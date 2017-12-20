@@ -6,8 +6,8 @@ Hypertext Markup Language</br>
 How Web pages are formatted and displayed.</br>
 
 2. HTML tags</br>
-**<html></html>** Declares the Web page to be written in HTML</br>
-#<head></head> Delimits the page's head</br>
+-<html></html>** Declares the Web page to be written in HTML</br>
+/<head></head> Delimits the page's head</br>
 <title></title> Defines the title (not displayed on the page)</br>
 <body></body> Delimits the page's body</br>
 <h n></hn> Delimits a level n heading</br>
@@ -33,5 +33,5 @@ When you enter a URL in your browser, this actually sends an HTTP command to </b
 The other main standard that controls how the World Wide Web works is </br>
 <img src="https://imgur.com/a/mmYyo"></br>
 
-## Flask Video Walkthrough</br>
+## Flask Converter example _ Video Walkthrough</br>
 <img src='https://i.imgur.com/E2hYQ95.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/></br>
