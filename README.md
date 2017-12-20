@@ -6,8 +6,8 @@ Hypertext Markup Language</br>
 How Web pages are formatted and displayed.</br>
 
 2. HTML tags</br>
--<html></html>** Declares the Web page to be written in HTML</br>
-/<head></head> Delimits the page's head</br>
+###<html></html>** Declares the Web page to be written in HTML</br>
+###<head></head> Delimits the page's head</br>
 <title></title> Defines the title (not displayed on the page)</br>
 <body></body> Delimits the page's body</br>
 <h n></hn> Delimits a level n heading</br>
