@@ -27,11 +27,10 @@ How Web pages are formatted and displayed.</br>
 
 3. HTTP meaning</br>
 HyperText Transfer Protocol.</br>
-Underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted</br></br>
-
-When you enter a URL in your browser, this actually sends an HTTP command to </br>
-The other main standard that controls how the World Wide Web works is </br>
+Underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted</br>
+When you enter a URL in your browser, this actually sends an HTTP command</br>
 <img src="https://imgur.com/a/mmYyo"></br>
 
+4. Practice</br>
 ## Flask Converter example _ Video Walkthrough</br>
 <img src='https://i.imgur.com/E2hYQ95.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/></br>
